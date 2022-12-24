@@ -21,6 +21,14 @@ header {
     height: 10vh;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+}
+
 form {
     display: flex;
     justify-content: center;
